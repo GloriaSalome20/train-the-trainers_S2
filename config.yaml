@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'Best Practices in Training and Curriculum Development'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2024-03-26'
+created: '2025-11-11'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'training, data, lesson, The Carpentries'
@@ -61,13 +61,12 @@ contact: 'amelia.bertozzi-villa@gatesfoundation.org'
 episodes:
 - good-teacher.md  # ABV
 - growth-mindset.md # ABV
+- target-audience.md # lesson-dev
 - skill-models-misconceptions.md # instructor
 - lesson-design.md # lesson-dev
-- target-audience.md # lesson-dev
 - creating-objectives.md # lesson-dev
-- designing-assessments.md # lesson-dev
-- week-1-review.md
 - crafting-content.md # lesson-dev
+- designing-assessments.md # lesson-dev
 - equity-inclusion-accessibility.md # instructor
 - physically-teaching.md # ABV
 - live-coding.md # instructor

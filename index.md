@@ -11,10 +11,10 @@ we're in now, or via one-on-one instruction. In any setting, there are a
 series of principles and techniques that will help you teach in a way
 that others find effective and engaging.
 
-This two-week training session is designed to help you learn these
-principles and techniques. Our nine days together will involve a mix of
+This one-week training session is designed to help you learn these
+principles and techniques. Our five days together will involve a mix of
 lectures, discussion, small group work, and teaching practice. Due to our limited time, we will focus on helping you develop a brief lesson with your peers, but these skills can be extended to longer and more complex courses.
 
-As we designed this course, we utilized the very concepts that we will be discussing over the next two weeks.
+As we designed this course, we utilized the very concepts that we will be discussing over the next one week.
 
 
